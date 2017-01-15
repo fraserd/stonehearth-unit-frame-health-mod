@@ -1,0 +1,21 @@
+{
+   "info": {
+      "name": "unitframehealthmod",
+      "author": "illdred <illdred@gmail.com>",
+      "website": "https://github.com/fraserd/stonehearth-unit-frame-health-mod",
+      "version": 3
+   },
+   "mixintos": {},
+   "overrides": {},
+   "ui": {
+      "html": [
+         "file(ui/game/unit_frame_health/unit_frame_health.html)"
+      ],
+      "js": [
+         "file(ui/game/unit_frame_health/unit_frame_health.js)"
+      ],
+      "less": [
+         "file(ui/game/unit_frame_health/unit_frame_health.less)"
+      ]
+   }
+}
