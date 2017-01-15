@@ -3,8 +3,8 @@ Stonehearth Unit Frame Health Mod adds a heart icon that indicates the health fo
 
 
 ![Screenshot](screenshots/Anji Dragonslayer demonstrating the unit frame health mod.PNG?raw=true "Anji Dragonslayer demonstrating the unit frame health mod")
-![Screenshot](screenshots/Anji Dragonslayer demonstrating the unit frame health mod #2.PNG?raw=true "Anji Dragonslayer demonstrating the unit frame health mod")
+![Screenshot](screenshots/Anji Dragonslayer demonstrating the unit frame health mod 2.PNG?raw=true "Anji Dragonslayer demonstrating the unit frame health mod")
 ![Screenshot](screenshots/Tibber Mont demonstrating the unit frame health mod.PNG?raw=true "Tibber Mont demonstrating the unit frame health mod")
-![Screenshot](screenshots/Tibber Mont demonstrating the unit frame health mod #2.PNG?raw=true "Tibber Mont demonstrating the unit frame health mod")
+![Screenshot](screenshots/Tibber Mont demonstrating the unit frame health mod 2.PNG?raw=true "Tibber Mont demonstrating the unit frame health mod")
 ![Screenshot](screenshots/Tippy Stroden demonstrating the unit frame health mod.PNG?raw=true "Tippy Stroden demonstrating the unit frame health mod")
-![Screenshot](screenshots/Tippy Stroden demonstrating the unit frame health mod #2.PNG?raw=true "Tippy Stroden demonstrating the unit frame health mod")
+![Screenshot](screenshots/Tippy Stroden demonstrating the unit frame health mod 2.PNG?raw=true "Tippy Stroden demonstrating the unit frame health mod")
