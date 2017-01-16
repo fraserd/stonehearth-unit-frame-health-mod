@@ -89,26 +89,26 @@
          // choose the fractional heart image depending on either health percentage or guts percentage
          if(healthPercent != undefined) {
             healthPercent = healthPercent * 100;
-            if(healthPercent === 100)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:full"];
-            else if(healthPercent < 100)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:f78"];
-            else if(healthPercent < 87.5)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:f68"];
-            else if(healthPercent < 75)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:f58"];
-            else if(healthPercent < 62.5)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:f48"];
-            else if(healthPercent < 50)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:f38"];
-            else if(healthPercent < 37.5)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:f28"];
-            else if(healthPercent < 25)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:f18"];
+            if(healthPercent === 0)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:zero"];
             else if(healthPercent < 12.5)
                     healthIconUrl = self.healthIcons[healthIconType]["health:f08"];
-            else if(healthPercent === 0)
-                    healthIconUrl = self.healthIcons[healthIconType]["health:zero"];
+            else if(healthPercent < 25)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:f18"];
+            else if(healthPercent < 37.5)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:f28"];
+            else if(healthPercent < 50)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:f38"];
+            else if(healthPercent < 62.5)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:f48"];
+            else if(healthPercent < 75)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:f58"];
+            else if(healthPercent < 87.5)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:f68"];
+            else if(healthPercent < 100)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:f78"];
+            else if(healthPercent === 100)
+                    healthIconUrl = self.healthIcons[healthIconType]["health:full"];
             else 
                     healthIconUrl = self.healthIcons[healthIconType]["health:full"];
 
